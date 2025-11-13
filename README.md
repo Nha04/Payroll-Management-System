@@ -25,5 +25,5 @@ A desktop application built with **C# (.NET Framework)** and **SQL Server** for 
 Main tables include:
 - `tblemployees` – stores employee information  
 - `tbladmin` – stores admin information  
-- `tblsalary` – stres employee's salary information 
+- `tblsalary` – stores employee's salary information 
 
